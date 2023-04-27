@@ -1,2 +1,3 @@
-# PrepCourse-henry
-Este es un repositorio del modulo2 del prepcourse de henry
+Yiver Ropero
+
+Este proyecto es una prueba de como clonar una repositorio remoto a mi escritorio local
